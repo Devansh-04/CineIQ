@@ -206,3 +206,5 @@ API docs: `http://127.0.0.1:8000/docs`
 - [ ] Improve dashboard UI
 - [ ] Deploy Streamlit dashboard online
 - [ ] Deploy FastAPI backend online
+      
+*** Note : The full ratings dataset is not included in this repository due to GitHub file size limits. A smaller sample dataset is included for demo purposes. ***
