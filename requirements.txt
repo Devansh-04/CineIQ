@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+scikit-surprise
+streamlit
+plotly
+fastapi
+uvicorn
+vaderSentiment
+notebook
+ipykernel
